@@ -1,6 +1,6 @@
-# English:
+English:
 
-## In the menu, you can access the notebook for a game in which you must guess the number. The game has the following instructions:
+In the menu, you can access the notebook for a game in which you must guess the number. The game has the following instructions:
 
 1. When you run the code, an Excel spreadsheet is created (if you haven't already) in the same location as the file to save the statistics.
 2. You can play alone or in pairs (you must enter the names of the players).
@@ -9,9 +9,9 @@
 5. Whoever has the best strategy and the best luck wins, so CHEER UP!
 
 
-# Spanish:
+Spanish:
 
-## En el menú puedes acceder al notebook de un juego en el que debes adivinar el número. El juego tiene las siguientes instrucciones:
+En el menú puedes acceder al notebook de un juego en el que debes adivinar el número. El juego tiene las siguientes instrucciones:
 
 1.- Cuando ejecutas el código se crea un Excel (si no lo has creado anteriormente) en la misma ubicación del archivo para guardar las estadísticas.
 2.- Puedes jugar sólo o en pareja (debes introducir el nombre de los que jueguen)
